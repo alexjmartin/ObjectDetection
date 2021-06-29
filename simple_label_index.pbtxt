@@ -1,0 +1,5 @@
+item {
+  name: "F1 Car"
+  id: 1
+  display_name: "F1 Car"
+}
