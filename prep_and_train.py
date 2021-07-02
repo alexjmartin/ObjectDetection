@@ -47,6 +47,7 @@ valid_image_dataset = valid_dataset
 parsed_valid_image_dataset = valid_image_dataset.map(_parse_image_function)
 parsed_valid_image_dataset
 
+## Loop to convert parsed training image dataset to arrays
 gt_boxes = []
 
 train_images_np = []
